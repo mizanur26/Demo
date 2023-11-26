@@ -2,4 +2,4 @@
 
 My first project.
 <br>
-Author - Mizanur Rahman
+Author -Md. Mizanur Rahman
